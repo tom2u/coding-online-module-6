@@ -22,3 +22,4 @@ Each link is to the state of the webpage at the END of the indicated lesson.
 [6.4.3/git-it-done](https://tom2u.github.io/coding-online-module-6/6.4.3/git-it-done)  
 [6.4.5/git-it-done](https://tom2u.github.io/coding-online-module-6/6.4.5/git-it-done)  
 [6.5.3/git-it-done](https://tom2u.github.io/coding-online-module-6/6.5.3/git-it-done)  
+[6.5.4/git-it-done](https://tom2u.github.io/coding-online-module-6/6.5.4/git-it-done)  
